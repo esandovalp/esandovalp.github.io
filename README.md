@@ -29,11 +29,20 @@ Mi siempre cambiante top 5 de pelis:
 * Blade Runner (1982)
 * Goodwill Hunting
 * The Fighter
+
 ![blade runner](/docs/assets/bladerunner.jpeg)
+
 Y mi otro siempre cambiante top 5 de series:
 * Breaking Bad
 * Bojack Horseman
 * Attack on Titan 
 * Friends
 * The Office
+
 ![bojack](/docs/assets/bojack.jpeg)
+
+#### Libros
+
+Este es mi interés y hobby más grande. Empecé a leer en serio en 2020 y desde entonces no he parado, mi objetivo es eventualmente entrar a esta industria y particularmente me encantaría trabajar con mi autor favorito (Brandon Sanderson).
+
+![brandon](/docs/assets/brandosando.jpeg)
