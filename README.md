@@ -22,3 +22,18 @@ También me gustan mucho los videojuegos (ahorita estoy clavado con Halo Infinit
 
 ![steam perfil](/docs/assets/steam.png)
 
+#### Peliculas y series
+Mi siempre cambiante top 5 de pelis:
+* Bastardos sin Gloria
+* Interestellar
+* Blade Runner (1982)
+* Goodwill Hunting
+* The Fighter
+![blade runner](/docs/assets/bladerunner.jpeg)
+Y mi otro siempre cambiante top 5 de series:
+* Breaking Bad
+* Bojack Horseman
+* Attack on Titan 
+* Friends
+* The Office
+![bojack](/docs/assets/bojack.jpeg)
