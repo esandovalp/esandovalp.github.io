@@ -47,6 +47,10 @@ Este es mi interés y hobby más grande. Empecé a leer en serio en 2020 y desde
 
 ![brandon](/docs/assets/brandosando.jpeg)
 
+Y aquí les dejo los libros que he leído este año:
+
+![libros](/docs/assets/libros.jpg)
+
 ##### Relación con Ciencia de Datos
 
 Les dejo aquí un resumen de un reporte que hice para Dragonsteel Books sobre la industria:
