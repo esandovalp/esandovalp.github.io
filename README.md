@@ -14,6 +14,6 @@ En mi servicio social me he dedicado a dar recorridos por el ITAM a estudiantes 
 
 Me gusta mucho la música! Aquí les dejo mis artistas y canciones top del año. 
 
-![artistas favoritos](/esandovalp.github.io/assets/artistasfavs.png)
-![canciones favs](/esandovalp.github.io/assets/cancionesfavs.png)
+![artistas favoritos](./assets/artistasfavs.png)
+![canciones favs](./assets/cancionesfavs.png)
 
