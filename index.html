@@ -50,6 +50,7 @@
             text-decoration: underline;
         }
     </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/2.0.3/marked.min.js"></script>
 </head>
 <body>
     <header>
@@ -94,8 +95,20 @@
 
         <section id="about">
             <h2>About</h2>
-            <p>Welcome to my collection of essays and reviews. Here, you'll find my thoughts on various topics, as well as my reviews of books and movies. Feel free to explore and engage with the content!</p>
+            <div id="readme-content"></div>
         </section>
     </main>
+
+    <script>
+        fetch('README.md')
+            .then(response => response.text())
+            .then(text => {
+                document.getElementById('readme-content').innerHTML = marked(text);
+            })
+            .catch(error => {
+                console.error('Error loading README.md:', error);
+                document.getElementById('readme-content').innerHTML = '<p>Error loading content. Please check the README.md file.</p>';
+            });
+    </script>
 </body>
 </html>
